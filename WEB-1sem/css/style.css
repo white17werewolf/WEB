@@ -1,0 +1,293 @@
+* {
+    font: Arial;
+    background: #efefef;
+    font-weight: none;
+    font-size: 10px;
+    color: #666666;
+}
+
+body {
+    width: 975px;
+    height: 1600px;
+    margin: 0 auto;
+    background: white;
+}
+
+header {
+    height: 135px;
+    width: auto;
+    background: white;
+    text-align: right;
+}
+a {
+    font-size: 8px;
+    text-decoration: none;
+    color: #6666;
+    background: white;
+}
+a:hover {
+ 
+}
+input {
+    width: 175px;
+    height: 25px;
+    margin-top: 20px;
+    margin-right: 50px;
+    float: right;
+    background: url(../img/sear.jpg) no-repeat #efefef 154px;
+    border: 1px solid #a8aa9f;
+    padding-right: 15px;
+}
+b {
+    display: inline-block;
+    width: 80px;
+    height: 15px;
+    margin-right: -4.2px;
+    text-align: center;
+    padding: 30px 40px 30px 47px;
+    font-size: 12px;
+    color: #676767;
+}
+b:hover {
+    background: #b5d802;
+    color: white
+}
+h1 {
+    font-size: 24px;
+    margin-top: 56.57px;
+    margin-bottom: 26.57px;
+    width: 610px;
+    background: white;
+}
+h5 {
+    font-size: 12px;
+    margin-bottom: 25px;
+    width: 610px;
+    background: white;
+}
+p {
+    width: 610px;
+    background: white;
+}
+img {
+    border: 5px solid #dedede;
+    max-width: 510px; 
+    max-height: 240px; 
+}
+
+button {
+    margin-right: 7px;
+    height: 35px;
+    background: #c6c6c6;
+    color: white;
+    border: none;
+}
+button:hover {
+    margin-right: 7px;
+    height: 35px;
+    background: #b5d802;
+    color: 
+}
+span {
+    color: white;
+    text-align: center;
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: 0 auto;
+    padding-top: 7px;
+    background: #b5d802;
+    font-size: 27px;
+    border-radius: 100%;
+}
+ul {
+    text-align: left;
+    margin-top: 0;
+    background: white;
+}
+li {
+    padding-bottom: 20px;
+    font-size: 9px;
+    font-variant-caps: all-small-caps;
+    background: white;
+}
+section {
+    background: white;
+    font-size: 9px;
+}
+font {
+    color: #1277d0
+}
+.reg {
+    width: auto;
+    height: auto;
+    padding-top: 75px;
+    padding-right: 6px;
+    background-color: white;
+    color: #6666;
+}
+.menu {
+    width: 976px; 
+    height: 75px;
+    background-color: #dedede;
+}
+.navbar {
+    width: 665px;
+    height: 75px;
+    margin-right: -2;
+    background-color: white;
+    float: left;
+    text-align: left;
+}
+.searcher {
+    width: 313px;
+    height: 75px;
+    background-color: #efefef;
+    float: left;
+}
+.sear {
+    width: 180px;
+    background: white;
+    color: black;
+}
+.page {
+    width: 615px;
+    height: 1275px;
+    background-color: white;
+}
+.left-p {
+    width: 612px;
+    height: 1275px;
+    background-color: white;
+    float: left;
+    padding-left: 18px;
+}
+.right-p {
+    width: 345px;
+    height: 1275px;
+    background-color: white;
+    float: left;
+}
+.calen {
+    margin-bottom: 15px;
+    height: 12px;
+    width: 610px;
+    background: url(../img/calen.jpg) no-repeat white;
+}
+.b-more {
+    width: 65px;
+    height: 35px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.block {
+    border-bottom: 1px solid #dedede;
+    background: white;
+}
+.block1 {
+    margin-top: -27.57px; 
+    border-bottom: 1px solid #dedede;
+    background: white;
+}
+.but-nav {
+    background: white;
+    margin-top: 30px;
+    height: 96px;
+}
+.mini-page {
+    background: white;
+    width: 345px;
+    height: 120px;
+}
+.right-p, .categ {
+    background: white;
+}
+
+.pic {
+    border-radius: 100%;
+    width: 45px;
+    height: 45px;
+    background: #b5d802;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+}
+.month {
+    margin: 0;
+    margin-top: 20px;
+    padding-left: 10px;
+    width: 30px;
+    background: white;
+}
+.b-1, .b-2, .b-3 {
+    background: white;
+    float: left;
+    width: 220px;
+    padding-right: 9px;
+    
+}
+.txt {
+    width: 270;
+    height: 70px;
+    background: white;
+}
+.c-ul:hover {
+    color: #b5d802;
+}
+.h1-c {
+    width: 345px;
+    background: white;
+}
+.h5-txt {
+    margin: 0;
+    width: 245;
+    background: white;
+}
+.posts {
+    background: white;
+    width: 345px;
+}
+.arch {
+    background: white;
+    width: 345px;
+    height: 265px;
+}
+.main-a {
+    background: white;
+    width: 345px;
+    height: 265px;
+}
+.left-a {
+    background: white;
+    width: 172px;
+    height: 221px;
+    float: left;
+}
+.right-a {
+    background: white;
+    width: 173px;
+    height: 221px;
+    float: left;
+}
+.h1-ar {
+    margin-top: 57px;
+    margin-bottom: 30px;
+    width: 345px;
+}
+.l-li, .r-li {
+    color: #b5d802;
+}
+.s-li:hover {
+    color: #b5d802;
+}
+.foot {
+    background: #efefef;
+    padding-top: 40px;
+    position: absolute;
+    margin-left: -20px;
+    padding-left: 20px;
+    width: 100%;
+    height: 79;
+    font-size: 10px;
+}
+
